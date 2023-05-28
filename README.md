@@ -10,5 +10,4 @@ RegEx [Class]:
     +replace(string input, string pattern, string replacement)            [get]      : string
     +split(string input, string pattern)                                  [get]      : array<string>
     +matches(string input, string pattern)                                [get]      : array<string>
-    
 ```
