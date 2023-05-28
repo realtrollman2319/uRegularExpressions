@@ -1,4 +1,4 @@
-# uRegularExpressions
+# uRegularExpressions [![](https://img.shields.io/github/downloads/realtrollman2319/uRegularExpressions/total.svg)](https://github.com/realtrollman2319/uRegularExpressions/releases)
 Regular Expression for uScript2
 self explanatory lmfao
 
