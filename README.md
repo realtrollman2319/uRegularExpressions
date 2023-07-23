@@ -12,7 +12,7 @@ Discord tag:
 ```
 discordTag = "Sous-Chef Roman#4256";
 pattern = "^.{3,32}#[0-9]{4}$";
-print(RegEx.isMatch(discordTag, pattern) ? print("This is a tag.") : print("This is not a valid tag."));
+print(RegEx.isMatch(discordTag, pattern) ? "This is a tag." : "This is not a valid tag.");
 ```
 Email:
 ```
@@ -20,7 +20,7 @@ Email:
 
 email = "example@example.com";
 emailRegex = "[\\w._%+-]+@[\\w.-]+\\.[a-zA-Z]{2,4}";
-print(RegEx.isMatch(email, emailRegex) ? print("This is an email.") : print("This is not a valid email."));
+print(RegEx.isMatch(email, emailRegex) ? "This is an email." : "This is not a valid email.");
 ```
 
 # THE DOCS:
